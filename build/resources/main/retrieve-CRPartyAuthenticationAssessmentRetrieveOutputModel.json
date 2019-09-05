@@ -1,0 +1,24 @@
+{
+  "partyAuthenticationAssessmentRetrieveActionTaskRecord" : {},
+  "partyAuthenticationAssessmentRetrieveActionResponse" : "partyAuthenticationAssessmentRetrieveActionResponse",
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {},
+    "customerReference" : "725927",
+    "partyReference" : "738471",
+    "partyAuthenticationAssessmentProfile" : {
+      "authenticationType" : "authenticationType"
+    }
+  },
+  "partyAuthenticationAssessmentInstanceReportRecord" : {
+    "partyAuthenticationAssessmentInstanceReportData" : "partyAuthenticationAssessmentInstanceReportData",
+    "partyAuthenticationAssessmentInstanceReportType" : "partyAuthenticationAssessmentInstanceReportType",
+    "partyAuthenticationAssessmentInstanceReport" : {}
+  },
+  "partyAuthenticationAssessmentRetrieveActionTaskReference" : "PAARATR790965",
+  "partyAuthenticationAssessmentInstanceAnalysis" : {
+    "partyAuthenticationAssessmentInstanceAnalysisData" : "partyAuthenticationAssessmentInstanceAnalysisData",
+    "partyAuthenticationAssessmentInstanceAnalysisReport" : {},
+    "partyAuthenticationAssessmentInstanceAnalysisReportType" : "partyAuthenticationAssessmentInstanceAnalysisReportType"
+  }
+}

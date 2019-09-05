@@ -1,0 +1,13 @@
+{
+  "deviceInstanceRecord" : {
+    "deviceTestResult" : "deviceTestResult"
+  },
+  "deviceInitiateActionRecord" : {},
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {}
+  },
+  "deviceInstanceReference" : "DIR772208",
+  "deviceInstanceStatus" : "deviceInstanceStatus",
+  "deviceInitiateActionReference" : "DIAR730428"
+}

@@ -1,0 +1,13 @@
+{
+  "documentInstanceStatus" : "documentInstanceStatus",
+  "documentInitiateActionRecord" : {},
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {}
+  },
+  "documentInstanceRecord" : {
+    "authenticationDocumentComparisonTestResult" : "authenticationDocumentComparisonTestResult"
+  },
+  "documentInstanceReference" : "DIR796354",
+  "documentInitiateActionReference" : "DIAR766447"
+}

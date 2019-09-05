@@ -1,0 +1,32 @@
+{
+  "questionRetrieveActionTaskReference" : "QRATR744223",
+  "questionRetrieveActionTaskRecord" : {},
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {},
+    "customerReference" : "748935",
+    "partyReference" : "758788",
+    "partyAuthenticationAssessmentProfile" : {
+      "authenticationType" : "authenticationType"
+    }
+  },
+  "questionInstanceRecord" : {
+    "authenticationSecretQuestionValue" : "authenticationSecretQuestionValue",
+    "authenticationSecretQuestionTemplate" : "authenticationSecretQuestionTemplate",
+    "secretQuestionTestResult" : "secretQuestionTestResult",
+    "authenticationSecretQuestionReference" : "794647"
+  },
+  "questionInstanceAnalysis" : {
+    "questionInstanceAnalysisReportType" : "questionInstanceAnalysisReportType",
+    "questionInstanceAnalysisReport" : {},
+    "questionInstanceAnalysisRecord" : {},
+    "questionInstanceAnalysisParameters" : "questionInstanceAnalysisParameters"
+  },
+  "questionRetrieveActionResponse" : "questionRetrieveActionResponse",
+  "questionInstanceReport" : {
+    "questionInstanceReportParameters" : "questionInstanceReportParameters",
+    "questionInstanceReportType" : "questionInstanceReportType",
+    "questionInstanceReportRecord" : {},
+    "questionInstanceReport" : {}
+  }
+}

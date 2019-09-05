@@ -1,0 +1,13 @@
+{
+  "biometricInstanceReference" : "BIR784983",
+  "biometricInitiateActionReference" : "BIAR726348",
+  "biometricInitiateActionRecord" : {},
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {}
+  },
+  "biometricInstanceStatus" : "biometricInstanceStatus",
+  "biometricInstanceRecord" : {
+    "biometricTestResult" : "biometricTestResult"
+  }
+}

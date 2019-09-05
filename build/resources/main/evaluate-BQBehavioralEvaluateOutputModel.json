@@ -1,0 +1,13 @@
+{
+  "behavioralInstanceRecord" : {
+    "behavioralTestResult" : "behavioralTestResult"
+  },
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {}
+  },
+  "behavioralInstanceReference" : "BIR764789",
+  "behavioralInitiateActionReference" : "BIAR763483",
+  "behavioralInitiateActionRecord" : {},
+  "behavioralInstanceStatus" : "behavioralInstanceStatus"
+}

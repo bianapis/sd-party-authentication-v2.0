@@ -1,0 +1,13 @@
+{
+  "questionInitiateActionRecord" : {},
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {}
+  },
+  "questionInstanceRecord" : {
+    "secretQuestionTestResult" : "secretQuestionTestResult"
+  },
+  "questionInstanceReference" : "QIR787870",
+  "questionInitiateActionReference" : "QIAR778854",
+  "questionInstanceStatus" : "questionInstanceStatus"
+}

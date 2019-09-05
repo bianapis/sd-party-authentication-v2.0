@@ -1,0 +1,35 @@
+{
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {},
+    "customerReference" : "761369",
+    "partyReference" : "723732",
+    "partyAuthenticationAssessmentProfile" : {
+      "authenticationType" : "authenticationType"
+    }
+  },
+  "documentRetrieveActionTaskRecord" : {},
+  "documentRetrieveActionResponse" : "documentRetrieveActionResponse",
+  "documentInstanceAnalysis" : {
+    "documentInstanceAnalysisParameters" : "documentInstanceAnalysisParameters",
+    "documentInstanceAnalysisRecord" : {},
+    "documentInstanceAnalysisReport" : {},
+    "documentInstanceAnalysisReportType" : "documentInstanceAnalysisReportType"
+  },
+  "documentInstanceRecord" : {
+    "authenticationDocumentReference" : {
+      "authenticationDocumentContent" : "authenticationDocumentContent"
+    },
+    "authenticationDocumentComparisonTestResult" : "authenticationDocumentComparisonTestResult",
+    "documentDirectoryEntryInstanceReference" : {
+      "documentContent" : "documentContent"
+    }
+  },
+  "documentInstanceReport" : {
+    "documentInstanceReportRecord" : {},
+    "documentInstanceReportParameters" : "documentInstanceReportParameters",
+    "documentInstanceReport" : {},
+    "documentInstanceReportType" : "documentInstanceReportType"
+  },
+  "documentRetrieveActionTaskReference" : "DRATR723240"
+}

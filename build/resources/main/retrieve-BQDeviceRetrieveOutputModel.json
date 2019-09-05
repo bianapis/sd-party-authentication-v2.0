@@ -1,0 +1,33 @@
+{
+  "deviceRetrieveActionTaskRecord" : {},
+  "deviceInstanceRecord" : {
+    "issuedDevicePropertyValue" : "issuedDevicePropertyValue",
+    "deviceTestResult" : "deviceTestResult",
+    "issuedDeviceInstanceReference" : "789094",
+    "authenticationDeviceReference" : "771583",
+    "authenticationDevicePropertyValue" : "authenticationDevicePropertyValue"
+  },
+  "deviceRetrieveActionTaskReference" : "DRATR724299",
+  "deviceInstanceAnalysis" : {
+    "deviceInstanceAnalysisRecord" : {},
+    "deviceInstanceAnalysisParameters" : "deviceInstanceAnalysisParameters",
+    "deviceInstanceAnalysisReportType" : "deviceInstanceAnalysisReportType",
+    "deviceInstanceAnalysisReport" : {}
+  },
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {},
+    "customerReference" : "776924",
+    "partyReference" : "730839",
+    "partyAuthenticationAssessmentProfile" : {
+      "authenticationType" : "authenticationType"
+    }
+  },
+  "deviceRetrieveActionResponse" : "deviceRetrieveActionResponse",
+  "deviceInstanceReport" : {
+    "deviceInstanceReportType" : "deviceInstanceReportType",
+    "deviceInstanceReportRecord" : {},
+    "deviceInstanceReportParameters" : "deviceInstanceReportParameters",
+    "deviceInstanceReport" : {}
+  }
+}

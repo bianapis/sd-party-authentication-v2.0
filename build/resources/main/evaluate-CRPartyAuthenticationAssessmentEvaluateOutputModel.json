@@ -1,0 +1,13 @@
+{
+  "partyAuthenticationAssessmentEvaluateActionReference" : "PAAEAR754258",
+  "partyAuthenticationAssessmentEvaluateActionRecord" : {},
+  "partyAuthenticationAssessmentInstanceReference" : "PAAIR789654",
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {},
+    "partyAuthenticationAssessmentProfile" : {
+      "authenticationType" : "authenticationType"
+    }
+  },
+  "partyAuthenticationAssessmentInstanceStatus" : "partyAuthenticationAssessmentInstanceStatus"
+}

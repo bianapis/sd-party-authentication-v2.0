@@ -1,0 +1,14 @@
+{
+  "partyAuthenticationAssessmentUpdateActionTaskRecord" : {},
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {},
+    "customerReference" : "758091",
+    "partyReference" : "708661",
+    "partyAuthenticationAssessmentProfile" : {
+      "authenticationType" : "authenticationType"
+    }
+  },
+  "updateResponseRecord" : {},
+  "partyAuthenticationAssessmentUpdateActionTaskReference" : "PAAUATR763726"
+}

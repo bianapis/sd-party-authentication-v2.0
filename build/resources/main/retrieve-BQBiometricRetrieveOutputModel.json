@@ -1,0 +1,33 @@
+{
+  "biometricInstanceAnalysis" : {
+    "biometricInstanceAnalysisReportType" : "biometricInstanceAnalysisReportType",
+    "biometricInstanceAnalysisRecord" : {},
+    "biometricInstanceAnalysisParameters" : "biometricInstanceAnalysisParameters",
+    "biometricInstanceAnalysisReport" : {}
+  },
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {},
+    "customerReference" : "745262",
+    "partyReference" : "775668",
+    "partyAuthenticationAssessmentProfile" : {
+      "authenticationType" : "authenticationType"
+    }
+  },
+  "biometricInstanceReport" : {
+    "biometricInstanceReportParameters" : "biometricInstanceReportParameters",
+    "biometricInstanceReport" : {},
+    "biometricInstanceReportType" : "biometricInstanceReportType",
+    "biometricInstanceReportRecord" : {}
+  },
+  "biometricRetrieveActionResponse" : "biometricRetrieveActionResponse",
+  "biometricRetrieveActionTaskReference" : "BRATR707810",
+  "biometricRetrieveActionTaskRecord" : {},
+  "biometricInstanceRecord" : {
+    "registeredBiometricInstanceRecord" : {},
+    "biometricTestResult" : "biometricTestResult",
+    "authenticationBiometricType" : "authenticationBiometricType",
+    "authenticationBiometricRecord" : {},
+    "registeredBiometricInstanceReference" : "781389"
+  }
+}

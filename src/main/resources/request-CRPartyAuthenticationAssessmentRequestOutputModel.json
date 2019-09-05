@@ -1,0 +1,13 @@
+{
+  "requestRecordReference" : "RRR723560",
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {},
+    "partyAuthenticationAssessmentProfile" : {
+      "authenticationType" : "authenticationType"
+    }
+  },
+  "partyAuthenticationAssessmentRequestActionTaskRecord" : {},
+  "partyAuthenticationAssessmentRequestActionTaskReference" : "PAARATR734619",
+  "requestResponseRecord" : {}
+}

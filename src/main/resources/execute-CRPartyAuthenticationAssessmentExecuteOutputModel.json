@@ -1,0 +1,13 @@
+{
+  "executeRecordReference" : "ERR757832",
+  "partyAuthenticationAssessmentExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {},
+    "partyAuthenticationAssessmentProfile" : {
+      "authenticationType" : "authenticationType"
+    }
+  },
+  "partyAuthenticationAssessmentExecuteActionTaskReference" : "PAAEATR758647"
+}

@@ -1,0 +1,33 @@
+{
+  "behavioralInstanceRecord" : {
+    "registeredBehavioralInstanceReference" : "795420",
+    "behavioralTestResult" : "behavioralTestResult",
+    "authenticationBehavioralRecord" : {},
+    "authenticationBehavioralType" : "authenticationBehavioralType",
+    "registeredBehavioralInstanceRecord" : {}
+  },
+  "behavioralInstanceAnalysis" : {
+    "behavioralInstanceAnalysisParameters" : "behavioralInstanceAnalysisParameters",
+    "behavioralInstanceAnalysisReportType" : "behavioralInstanceAnalysisReportType",
+    "behavioralInstanceAnalysisRecord" : {},
+    "behavioralInstanceAnalysisReport" : {}
+  },
+  "partyAuthenticationAssessmentInstanceRecord" : {
+    "customerContactAuthenticationLevel" : "customerContactAuthenticationLevel",
+    "partyAuthenticationConsolidationRecord" : {},
+    "customerReference" : "712001",
+    "partyReference" : "767535",
+    "partyAuthenticationAssessmentProfile" : {
+      "authenticationType" : "authenticationType"
+    }
+  },
+  "behavioralRetrieveActionResponse" : "behavioralRetrieveActionResponse",
+  "behavioralRetrieveActionTaskReference" : "BRATR718570",
+  "behavioralRetrieveActionTaskRecord" : {},
+  "behavioralInstanceReport" : {
+    "behavioralInstanceReportRecord" : {},
+    "behavioralInstanceReportType" : "behavioralInstanceReportType",
+    "behavioralInstanceReportParameters" : "behavioralInstanceReportParameters",
+    "behavioralInstanceReport" : {}
+  }
+}
